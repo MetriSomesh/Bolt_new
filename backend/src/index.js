@@ -5,7 +5,6 @@
 // const { BASE_PROMPT, getSystemPrompt } = require("./prompts");
 // const dotenv = require("dotenv");
 // dotenv.config();
-// const GEMINI_API_KEY = "AIzaSyAVplto1pycwEEe0_7aG_tW3vL0oqjePB0";
 // if (!GEMINI_API_KEY) {
 //   throw new Error("Missing GEMINI_API_KEY in environment");
 // }
